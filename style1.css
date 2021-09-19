@@ -1,0 +1,89 @@
+.details,
+.experience,
+.education,
+.traits,
+.skills,
+.hobbies {
+  color: #282425;
+  background-color: #fff1e6;
+  font-size: 13px;
+  line-height: 1.5;
+  font-family: Arial;
+  text-align: left;
+  border-left: #756158;
+  padding: 30px 50px;
+  padding-left: 20%;
+  margin: 0;
+}
+
+header {
+  color: #282425;
+  background-color: #68564d;
+  font-size: 25px;
+  line-height: 1.5;
+  font-family: Arial;
+  text-align: center;
+  margin: 0;
+  overflow: auto;
+}
+
+h1 {
+  text-align: left;
+  padding-left: 20%;
+  color: whitesmoke;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+img {
+  width: 200px;
+  height: 280px;
+  border-color: #5e524c;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 30%;
+  float: left;
+  margin: 5px 0; 
+  
+  }
+
+.KBCNR,
+.KBCBrusel,
+.KBCCAU,
+.fakulta,
+.JKU {
+  padding: 10px 0;
+}
+
+.doktorat,
+.ekonomka,
+.chemicka {
+  padding: 10px 0;
+}
+
+.details {
+  color: whitesmoke;
+  font-size: 15px;
+  padding: 25px 50px;
+  padding-left: 20%;
+  background-color: #68564d;
+}
+
+a {
+  font-style: italic;
+  color: whitesmoke;
+}
+
+.education,
+.skills {
+  background-color: #f9e3d0;
+}
+
+footer {
+  background-color: #68564d;
+  color: whitesmoke;
+  text-align: center;
+  font-family: Arial;
+}
